@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://Cdreamfly.github.io/sitemap.xml

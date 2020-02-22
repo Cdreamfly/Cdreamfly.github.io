@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 只要逆流而上</title>
+    <link>https://Cdreamfly.github.io/post/</link>
+    <description>Recent content in Posts on 只要逆流而上</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 01 Jan 2020 16:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="https://Cdreamfly.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1.两数之和</title>
+      <link>https://Cdreamfly.github.io/post/1.-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/</link>
+      <pubDate>Wed, 01 Jan 2020 16:01:23 +0800</pubDate>
+      
+      <guid>https://Cdreamfly.github.io/post/1.-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/</guid>
+      <description>1. 两数之和 给定一个整数数组 nums和一个目标值 target，请你在该数组中找出和为目标值的那 两个 整数，并返回他们的数组下标。 你可以假设每种输</description>
+    </item>
+    
+    <item>
+      <title>13.罗马数字转整数</title>
+      <link>https://Cdreamfly.github.io/post/13.-%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%95%B4%E6%95%B0/</link>
+      <pubDate>Wed, 01 Jan 2020 16:01:23 +0800</pubDate>
+      
+      <guid>https://Cdreamfly.github.io/post/13.-%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%95%B4%E6%95%B0/</guid>
+      <description>罗马数字包含以下七种字符: I， V， X， L，C，D 和 M。 字符 数值 I 1 V 5 X 10 L 50 C 100 D 500 M 1000 例如， 罗马数字 2 写做 II ，即为两个并列的 1。12 写做</description>
+    </item>
+    
+    <item>
+      <title>7.整数反转</title>
+      <link>https://Cdreamfly.github.io/post/7.-%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC/</link>
+      <pubDate>Wed, 01 Jan 2020 16:01:23 +0800</pubDate>
+      
+      <guid>https://Cdreamfly.github.io/post/7.-%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC/</guid>
+      <description>给出一个 32 位的有符号整数，你需要将这个整数中每位上的数字进行反转。 示例 1: 输入: 123 输出: 321 示例 2: 示例 2: 输入: -123 输出: -321 示例 3: 示例 3: 输入: 120 输出</description>
+    </item>
+    
+    <item>
+      <title>9.回文数</title>
+      <link>https://Cdreamfly.github.io/post/9.-%E5%9B%9E%E6%96%87%E6%95%B0/</link>
+      <pubDate>Wed, 01 Jan 2020 16:01:23 +0800</pubDate>
+      
+      <guid>https://Cdreamfly.github.io/post/9.-%E5%9B%9E%E6%96%87%E6%95%B0/</guid>
+      <description>判断一个整数是否是回文数。回文数是指正序（从左向右）和倒序（从右向左）读都是一样的整数。 示例 1: 输入: 121 输出: true 示例 2: 输入: -121 输出: false 解释: 从</description>
+    </item>
+    
+    <item>
+      <title>二叉树（链表表示）</title>
+      <link>https://Cdreamfly.github.io/post/%E4%BA%8C%E5%8F%89%E6%A0%91%E9%93%BE%E8%A1%A8%E8%A1%A8%E7%A4%BA/</link>
+      <pubDate>Wed, 01 Jan 2020 16:01:23 +0800</pubDate>
+      
+      <guid>https://Cdreamfly.github.io/post/%E4%BA%8C%E5%8F%89%E6%A0%91%E9%93%BE%E8%A1%A8%E8%A1%A8%E7%A4%BA/</guid>
+      <description>Node.h #pragma once class Node { public: Node(); Node* SearchNode(int indexnode); void DeleteNode(); void PreorderTraversal(); void InorderTraversal(); void PostorderTraversal(); int index; int data; Node* pLChild; Node* pRChild; Node* pParent; }; Node.cpp #include &amp;quot;Node.h&amp;quot; #include&amp;lt;iostream&amp;gt; using namespace std; Node::Node() { index = 0; data = 0; pLChild = nullptr; pRChild = nullptr; pParent = nullptr; } Node* Node::SearchNode(int nodeindex) { Node* temp = nullptr; if (this-&amp;gt;index == nodeindex)return this; if (this-&amp;gt;pLChild</description>
+    </item>
+    
+    <item>
+      <title>数据结构之图</title>
+      <link>https://Cdreamfly.github.io/post/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B9%8B%E5%9B%BE/</link>
+      <pubDate>Wed, 01 Jan 2020 16:01:23 +0800</pubDate>
+      
+      <guid>https://Cdreamfly.github.io/post/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B9%8B%E5%9B%BE/</guid>
+      <description>1. 图的定义 图（graph） 是由一些点（vertex） 和这些点之间的连线（edge） 所组成的；其中，点通常称为顶点（vertex），而点到点之</description>
+    </item>
+    
+    <item>
+      <title>数据结构之树</title>
+      <link>https://Cdreamfly.github.io/post/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B9%8B%E6%A0%91/</link>
+      <pubDate>Wed, 01 Jan 2020 16:01:23 +0800</pubDate>
+      
+      <guid>https://Cdreamfly.github.io/post/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B9%8B%E6%A0%91/</guid>
+      <description>本质问题 树不是线性表，是一种描述非线性层次关系的数据结构。描述的是一对多的数据结构。 1. 树的定义 树(Tree)的基本概念 树是由结点或顶点和边组</description>
+    </item>
+    
+    <item>
+      <title>汇编语言-绪论</title>
+      <link>https://Cdreamfly.github.io/post/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80-%E7%BB%AA%E8%AE%BA/</link>
+      <pubDate>Wed, 01 Jan 2020 16:01:23 +0800</pubDate>
+      
+      <guid>https://Cdreamfly.github.io/post/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80-%E7%BB%AA%E8%AE%BA/</guid>
+      <description>1. 机器语言与机器指令 机器语言是机器指令的集合。 机器指令是一台机器可以正确执行的命令。 机器指令有一串二进制数表示，如010101 汇编语言与汇编</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://Cdreamfly.github.io/post/20.-%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Cdreamfly.github.io/post/20.-%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7/</guid>
+      <description>给定一个只包括&amp;rsquo;(&amp;rsquo;，&amp;rsquo;)&amp;rsquo;，&amp;rsquo;{&amp;rsquo;，&amp;rsquo;}&amp;rsquo;，&amp;lsquo;[&amp;rsquo;，&amp;rsquo;]&amp;rsquo; 的字符串，判断字符串是否有效。
+有效字符串需满足： 1. 左括号必须用相同类型的右括号闭合。 2. 左括号必须以正确的顺序闭合。
+注意空字符串可被认为是有效字符串。
+示例 1:
+输入: &amp;quot;()&amp;quot; 输出: true  示例 2:
+输入: &amp;quot;()[]{}&amp;quot; 输出: true  示例 3:
+输入: &amp;quot;(]&amp;quot; 输出: false  示例 4:
+输入: &amp;quot;([)]&amp;quot; 输出: false  示例 5:
+输入: &amp;quot;{[]}&amp;quot; 输出: true  题解:
+class Solution { public: bool isValid(string s) { stack&amp;lt;char&amp;gt;st; int len = s.size(); if (len == 0)return true; if (len % 2 != 0)return false; if (s[0] == &#39;)&#39; || s[0] == &#39;}&#39; || s[0] == &#39;]&#39;)return false; for (int i = 0; i &amp;lt; len; ++i) { if (st.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://Cdreamfly.github.io/post/cmd-%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Cdreamfly.github.io/post/cmd-%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA/</guid>
+      <description> cmd 输入输出 首先在编写如：
+#define _CRT_SECURE_NO_WARNINGS #include&amp;lt;stdio.h&amp;gt; #include&amp;lt;stdlib.h&amp;gt; void main() { int a = 0; scanf(&amp;quot;%d&amp;quot;,&amp;amp;a); printf(&amp;quot;%d\n&amp;quot;,a); system(&amp;quot;pause&amp;quot;); }  生成 cmd.exe, 打开 cmd 并进入到 cmd.exe 的目录
+我们可以再新建以个1.txt并在里面输入 123 
+在cmd窗口中输入: &amp;lt; : 是将 1.txt 中输入的数据输出到 cmd.exe 正如代码中的 scanf() 接受
+&amp;gt; : 是将 cmd.exe 输入的数据输入到 2.txt 中正如 printf()
+还可以将cmd内容输出到文本例如: 就会生成 3.txt: </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://Cdreamfly.github.io/post/%E4%BA%8C%E5%8F%89%E6%A0%91%E6%95%B0%E7%BB%84%E8%A1%A8%E7%A4%BA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Cdreamfly.github.io/post/%E4%BA%8C%E5%8F%89%E6%A0%91%E6%95%B0%E7%BB%84%E8%A1%A8%E7%A4%BA/</guid>
+      <description>.h 文件：
+#pragma once class Tree { public: Tree(int size, int* pRoot); ~Tree(); int* SearchNode(int nodeIndex); //查找 bool AddNode(int nodeIndex, int direction, int* pNode);//添加 bool DeleteNode(int nodeIndex, int* pNode);//删除 void TreeTraverse();//遍历 private: int* m_pTree; int m_Size; };  .cpp 文件:
+#include&amp;lt;iostream&amp;gt; #include &amp;quot;Tree.h&amp;quot; using namespace std; Tree::Tree(int size, int* pRoot) { m_Size = size; m_pTree = new int[size]; for (int i = 0; i &amp;lt; size; ++i) { m_pTree[i] = 0; } m_pTree[0] = *pRoot; } Tree::~Tree() { delete[] m_pTree; m_pTree = nullptr; } int* Tree::SearchNode(int nodeIndex) { if (nodeIndex &amp;lt; 0 || nodeIndex &amp;gt;= m_Size)return nullptr; if (m_pTree[nodeIndex] == 0)return nullptr; return &amp;amp;m_pTree[nodeIndex]; } bool Tree::AddNode(int nodeIndex, int direction, int* pNode) { if (nodeIndex &amp;lt; 0 || nodeIndex &amp;gt;= m_Size)return false; //判断父节点索引是否正确 if (m_pTree[nodeIndex] == 0)return false; //判断父节点是否为空 if (direction == 0) //左 { if (nodeIndex * 2 + 1 &amp;gt;= m_Size)return false; //判断左孩子索引是否正确 if (m_pTree[nodeIndex * 2 + 1] !</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://Cdreamfly.github.io/post/%E5%9B%BE%E9%82%BB%E6%8E%A5%E7%9F%A9%E9%98%B5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Cdreamfly.github.io/post/%E5%9B%BE%E9%82%BB%E6%8E%A5%E7%9F%A9%E9%98%B5/</guid>
+      <description>Node.h
+#pragma once class Node { public: Node(char data = 0); char m_cData; bool m_bIsVisited; };  Node.cpp
+#include &amp;quot;Node.h&amp;quot; Node::Node(char data) { m_cData = data; m_bIsVisited = false; }  CMap.h
+#pragma once #include&amp;quot;Node.h&amp;quot; #include&amp;lt;iostream&amp;gt; #include&amp;lt;vector&amp;gt; using namespace std; class CMap { public: CMap(int capacity); ~CMap(); bool addNode(Node* pNode);//添加顶点 void resetNode();//重置顶底 bool setValueToMatrixForDirectedGraph(int row, int col, int val = 1);//为有向图设置邻接矩阵 bool setValueToMatrixForUndirectedGraph(int row, int col, int val = 1);//为无向图设置邻接矩阵 void printMatrix();//打印邻接矩阵 void depthFirstTraverse(int nodeIndex); //深度优先遍历 void breadthFirstTraverse(int nodeIndex);//广度优先遍历 private: bool getValueFromMatrix(int row, int col, int&amp;amp; val);//广度优先遍历实现函数 void breadthFirstTraverseImpl(vector&amp;lt;int&amp;gt;preVec);// private: int m_iCapacity; //最多顶点数 int m_iNodeCount;//已经添加的顶点数 Node* m_pNodeArray;//用来存放顶点的数组 int* m_pMatrix;//用来存放顶点的邻接矩阵 };  CMap.</description>
+    </item>
+    
+  </channel>
+</rss>

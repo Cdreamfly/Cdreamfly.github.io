@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>汇编语言 on 只要逆流而上</title>
+    <link>https://Cdreamfly.github.io/tags/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80/</link>
+    <description>Recent content in 汇编语言 on 只要逆流而上</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 01 Jan 2020 16:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="https://Cdreamfly.github.io/tags/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>汇编语言-绪论</title>
+      <link>https://Cdreamfly.github.io/post/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80-%E7%BB%AA%E8%AE%BA/</link>
+      <pubDate>Wed, 01 Jan 2020 16:01:23 +0800</pubDate>
+      
+      <guid>https://Cdreamfly.github.io/post/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80-%E7%BB%AA%E8%AE%BA/</guid>
+      <description>1. 机器语言与机器指令 机器语言是机器指令的集合。 机器指令是一台机器可以正确执行的命令。 机器指令有一串二进制数表示，如010101 汇编语言与汇编</description>
+    </item>
+    
+  </channel>
+</rss>
